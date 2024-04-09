@@ -1,5 +1,6 @@
 burr[hamilton]
 burr[streamlit]
 openai
+fastapi
 loguru==0.7.2
 uvicorn==0.29.0
